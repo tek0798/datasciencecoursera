@@ -1,2 +1,2 @@
 # datasciencecoursera
-datasciencecoursera for Data Science Tool Box Project
+datasciencecoursera for Data Scientist's ToolBox Project
